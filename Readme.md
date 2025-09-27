@@ -1,4 +1,4 @@
-# Express + TypeScript Project
+# Basic_Express_Project_Ai_Integration
 
 Ye project ek **Express server** hai jo **TypeScript** ke sath bana hai.
 
